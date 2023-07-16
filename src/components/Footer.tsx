@@ -6,7 +6,7 @@ type Props = {
 
 function Footer({}: Props) {
   return (
-    <div>Footer</div>
+    <div className='mt-8'>Footer</div>
   )
 }
 
