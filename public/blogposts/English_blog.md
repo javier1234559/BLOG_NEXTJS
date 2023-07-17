@@ -1,12 +1,11 @@
 ---
 title: Mastering English Speaking Skills
-author: Your Name
-date: July 14, 2023
+author: Javier
+subtitle: Learning to speak English fluently is a goal for many language learners
+date: July 17, 2023
 ---
 
-# Mastering English Speaking Skills
-
-![Image 1](image1.jpg)
+![Image 1](/images/image1.jpg)
 
 Learning to speak English fluently is a goal for many language learners. Having good English speaking skills opens up a world of opportunities in both personal and professional contexts. In this blog post, we will explore effective strategies and techniques to help you improve your English speaking abilities.
 
@@ -21,7 +20,7 @@ Consistent practice is key to mastering any skill, including speaking English. S
 
 ## 2. Expand Your Vocabulary
 
-![Image 2](image2.jpg)
+![Image 2](/images/image2.jpg)
 
 A rich vocabulary is essential for effective communication. To improve your English speaking skills, focus on expanding your vocabulary. Here are a few tips:
 
@@ -32,7 +31,7 @@ A rich vocabulary is essential for effective communication. To improve your Engl
 
 ## 3. Seek Feedback and Corrections
 
-![Image 3](image3.jpg)
+![Image 3](/images/image3.jpg)
 
 Receiving feedback and corrections is crucial for improving your English speaking skills. Actively seek opportunities to get feedback from native English speakers or qualified language teachers. Here's how you can do it:
 

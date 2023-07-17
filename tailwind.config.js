@@ -1,7 +1,6 @@
 /** @type {import('tailwindcss').Config} */
-const withMT = require("@material-tailwind/react/utils/withMT");
 
-module.exports = withMT({
+module.exports =({
   content: [
     './app/**/*.{js,ts,jsx,tsx,mdx}', // Note the addition of the `app` directory.
     './pages/**/*.{js,ts,jsx,tsx,mdx}',
@@ -13,7 +12,15 @@ module.exports = withMT({
     './src/**/*.{js,ts,jsx,tsx,mdx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        transparent: 'transparent',
+        current: 'currentColor',
+        'customBlue': '#111827',
+      },
+    },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 })
