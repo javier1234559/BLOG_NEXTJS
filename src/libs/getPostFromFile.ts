@@ -1,7 +1,6 @@
 
 import fs from "fs";
 import matter from "gray-matter";
-import { format }  from 'date-fns'
 
 export interface Post {
   title: string,
